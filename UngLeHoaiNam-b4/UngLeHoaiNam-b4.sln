@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT3-buoi4", "BT2-buoi4\BT3-buoi4.csproj", "{5665F436-9E9D-4656-AA84-11FF75A44DAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT2-buoi4", "BT4-buoi4\BT2-buoi4.csproj", "{67FD7C43-66E7-4B3F-9410-C3551399A565}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5665F436-9E9D-4656-AA84-11FF75A44DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5665F436-9E9D-4656-AA84-11FF75A44DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5665F436-9E9D-4656-AA84-11FF75A44DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5665F436-9E9D-4656-AA84-11FF75A44DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67FD7C43-66E7-4B3F-9410-C3551399A565}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67FD7C43-66E7-4B3F-9410-C3551399A565}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67FD7C43-66E7-4B3F-9410-C3551399A565}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67FD7C43-66E7-4B3F-9410-C3551399A565}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

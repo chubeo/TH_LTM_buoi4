@@ -1,0 +1,6 @@
+c:\users\anh tien\documents\visual studio 2013\Projects\LeTrinhHoangAnhTien-buoi4tt\BT4-buoi4\bin\Debug\BT4-buoi4.exe.config
+c:\users\anh tien\documents\visual studio 2013\Projects\LeTrinhHoangAnhTien-buoi4tt\BT4-buoi4\bin\Debug\BT4-buoi4.exe
+c:\users\anh tien\documents\visual studio 2013\Projects\LeTrinhHoangAnhTien-buoi4tt\BT4-buoi4\bin\Debug\BT4-buoi4.pdb
+c:\users\anh tien\documents\visual studio 2013\Projects\LeTrinhHoangAnhTien-buoi4tt\BT4-buoi4\obj\Debug\Server.csprojResolveAssemblyReference.cache
+c:\users\anh tien\documents\visual studio 2013\Projects\LeTrinhHoangAnhTien-buoi4tt\BT4-buoi4\obj\Debug\BT4-buoi4.exe
+c:\users\anh tien\documents\visual studio 2013\Projects\LeTrinhHoangAnhTien-buoi4tt\BT4-buoi4\obj\Debug\BT4-buoi4.pdb

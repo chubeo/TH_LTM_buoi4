@@ -1,0 +1,8 @@
+c:\users\anh tien\documents\visual studio 2013\Projects\LeTrinhHoangAnhTien-buoi4tt\Client\bin\Debug\Client.exe.config
+c:\users\anh tien\documents\visual studio 2013\Projects\LeTrinhHoangAnhTien-buoi4tt\Client\bin\Debug\Client.exe
+c:\users\anh tien\documents\visual studio 2013\Projects\LeTrinhHoangAnhTien-buoi4tt\Client\bin\Debug\Client.pdb
+c:\users\anh tien\documents\visual studio 2013\Projects\LeTrinhHoangAnhTien-buoi4tt\Client\obj\Debug\Client.exe
+c:\users\anh tien\documents\visual studio 2013\Projects\LeTrinhHoangAnhTien-buoi4tt\Client\obj\Debug\Client.pdb
+C:\Users\Chu Beo\Desktop\beo\UngLeHoaiNam-b4tt\Client\bin\Debug\Client.exe.config
+C:\Users\Chu Beo\Desktop\beo\UngLeHoaiNam-b4tt\Client\obj\Debug\Client.exe
+C:\Users\Chu Beo\Desktop\beo\UngLeHoaiNam-b4tt\Client\obj\Debug\Client.pdb
